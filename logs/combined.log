@@ -1,0 +1,46 @@
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 4 + 2 = 6","service":"calculator-service"}
+{"level":"info","message":"Subtract operation successful: 4 - 2 = 2","service":"calculator-service"}
+{"level":"info","message":"Multiply operation successful: 4 * 2 = 8","service":"calculator-service"}
+{"level":"info","message":"Divide operation successful: 4 / 2 = 2","service":"calculator-service"}
+{"level":"info","message":"Power operation successful: 4^2 = 16","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(4) = 2","service":"calculator-service"}
+{"level":"info","message":"Modulo operation successful: 4 % 2 = 0","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 4 + 2 = 6","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 4 + 2 = 6","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 4 + 2 = 6","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 4 + 2 = 6","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Power operation successful: 4^2 = 16","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(4) = 2","service":"calculator-service"}
+{"level":"info","message":"Modulo operation successful: 4 % 2 = 0","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(4) = 2","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(4) = 2","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(49) = 7","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 5 + 3 = 8","service":"calculator-service"}
+{"level":"info","message":"Subtract operation successful: 5 - 3 = 2","service":"calculator-service"}
+{"level":"info","message":"Multiply operation successful: 5 * 3 = 15","service":"calculator-service"}
+{"level":"info","message":"Divide operation successful: 5 / 3 = 1.6666666666666667","service":"calculator-service"}
+{"level":"info","message":"Power operation successful: 5^3 = 125","service":"calculator-service"}
+{"level":"info","message":"Modulo operation successful: 5 % 3 = 2","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(5) = 2.23606797749979","service":"calculator-service"}
+{"level":"error","message":"Power operation error: Error: Parsing Error...! Both base and exponent must be defined as numbers","service":"calculator-service"}
+{"level":"error","message":"Square root operation error: Error: Parsing Error...! Number must be defined","service":"calculator-service"}
+{"level":"error","message":"Modulo operation error: Error: Parsing Error...! Both dividend and divisor must be defined as numbers","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 8 + 9 = 17","service":"calculator-service"}
+{"level":"info","message":"Subtract operation successful: 8 - 9 = -1","service":"calculator-service"}
+{"level":"info","message":"Multiply operation successful: 8 * 9 = 72","service":"calculator-service"}
+{"level":"info","message":"Divide operation successful: 8 / 9 = 0.8888888888888888","service":"calculator-service"}
+{"level":"error","message":"Power operation error: ReferenceError: num2t is not defined","service":"calculator-service"}
+{"level":"info","message":"Calculator service running at http://localhost:8080","service":"calculator-service"}
+{"level":"info","message":"Add operation successful: 8 + 6 = 14","service":"calculator-service"}
+{"level":"info","message":"Subtract operation successful: 8 - 6 = 2","service":"calculator-service"}
+{"level":"info","message":"Multiply operation successful: 8 * 6 = 48","service":"calculator-service"}
+{"level":"info","message":"Divide operation successful: 8 / 6 = 1.3333333333333333","service":"calculator-service"}
+{"level":"info","message":"Power operation successful: 8^6 = 262144","service":"calculator-service"}
+{"level":"info","message":"Modulo operation successful: 8 % 6 = 2","service":"calculator-service"}
+{"level":"info","message":"Square root operation successful: sqrt(8) = 2.8284271247461903","service":"calculator-service"}

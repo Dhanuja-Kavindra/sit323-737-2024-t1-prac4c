@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+        .button {
+            background-color: #04AA6D; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px; /* Added border-radius */
+            transition-duration: 0.4s; /* Smooth transition for hover effect */
+        }
+
+        .button:hover {
+            background-color: white; /* Change background color on hover */
+            color: #04AA6D; /* Change text color on hover */
+            border: 2px solid #04AA6D; /* Add border on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Calculator</h1>
+    <input type="text" id="num_1" required placeholder="Number 1 or Base">
+    <input type="text" id="num_2" required placeholder="Number 2 or Exponent or Divisor"><br>
+    <button onclick="calculate('add')" class="button">Add</button>
+    <button onclick="calculate('subtract')" class="button">Subtract</button>
+    <button onclick="calculate('multiply')" class="button">Multiply</button>
+    <button onclick="calculate('divide')" class="button">Divide</button>
+	<button onclick="calculate('expo')" class="button">Exponentiate</button>
+	<button onclick="calSqrt()" class="button">Square Root</button>
+	<button onclick="calculate('mod')" class="button">Modulo</button>
+    <h2>Result: <span id="result"></span></h2>
+
+    <script src="cal_app.js"></script>
+</body>
+</html>

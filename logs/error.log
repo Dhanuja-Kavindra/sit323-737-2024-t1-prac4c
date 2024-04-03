@@ -1,0 +1,4 @@
+{"level":"error","message":"Power operation error: Error: Parsing Error...! Both base and exponent must be defined as numbers","service":"calculator-service"}
+{"level":"error","message":"Square root operation error: Error: Parsing Error...! Number must be defined","service":"calculator-service"}
+{"level":"error","message":"Modulo operation error: Error: Parsing Error...! Both dividend and divisor must be defined as numbers","service":"calculator-service"}
+{"level":"error","message":"Power operation error: ReferenceError: num2t is not defined","service":"calculator-service"}
